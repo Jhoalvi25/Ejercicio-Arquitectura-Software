@@ -15,5 +15,5 @@ Este proyecto contiene la documentación del ejercicio de Arquitectura de Softwa
 
 ## 📸 Imágenes de Despliegue
 
-![Diagrama de clases](./screenshots/diagrama-clases.png)
+![Diagrama de clases](./diagrams/diagrama-clases.png)
 ![Diagrama de despliegue](./screenshots/diagrama-despliegue.png)
